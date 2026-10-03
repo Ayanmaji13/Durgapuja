@@ -83,7 +83,11 @@ const SITE_DATA = {
         src: "president/20161.jpeg", caption: "Durga maa idol full image"
       }
     ] },
-    { year: 2015, images: [] },
+    { year: 2015, images: [
+      {
+        src: "president/20151.jpeg", caption: "Durga maa idol full image"
+      }
+    ] },
     { year: 2014, images: [] },
     { year: 2013, images: [] },
     { year: 2012, images: [] },
