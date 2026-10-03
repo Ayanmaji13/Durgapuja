@@ -132,9 +132,9 @@ const SITE_DATA = {
      To get a directions link: Share -> Copy link.
      ----------------------------------------------------------------------- */
   location: {
-    address: "9F8C+VM9, Bar Council of Andhra Pradesh, High Court Rd, Ghansi Bazar, Gulzar Houz, High Court, Ghansi Bazaar, Hyderabad, Telangana 500002",
-    mapEmbedUrl: "https://www.google.com/maps?q=9F8C%2BVM9%2C+Bar+Council+of+Andhra+Pradesh%2C+High+Court+Rd%2C+Ghansi+Bazar%2C+Gulzar+Houz%2C+High+Court%2C+Ghansi+Bazaar%2C+Hyderabad%2C+Telangana+500002&output=embed",
-    directionsUrl: "https://maps.app.goo.gl/5jKYQgVUAuRakiaG9?g_st=it",
+    address: "Vaidic Vachanalay Bhavan, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    mapEmbedUrl: "https://maps.google.com/maps?q=17.3671667,78.4717419&z=17&output=embed",
+    directionsUrl: "https://maps.app.goo.gl/7mAb5eVvFgKpQWT27",
   },
 
   /* -----------------------------------------------------------------------
@@ -148,7 +148,7 @@ const SITE_DATA = {
   contact: {
     phone: "+919246506287",
     email: "swamivivekanandasangha13@gmail.com",
-    address: "9F8C+VM9, Bar Council of Andhra Pradesh, High Court Rd, Ghansi Bazar, Gulzar Houz, High Court, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    address: "Vaidic Vachanalay Bhavan, Ghansi Bazaar, Hyderabad, Telangana 500002",
   },
 };
 
