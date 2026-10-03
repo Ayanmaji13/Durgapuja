@@ -116,7 +116,7 @@ const SITE_DATA = {
     { name: "Chiranjit Sana", title: "Joint Secretary", photo: "images/committee/chiranjit-sana.jpg" },
     { name: "Biswanath Jana", title: "Cashier", photo: "president/biswanath.jpeg" },
     { name: "Laltu Pandit", title: "Cashier", photo: "president/laltu.jpeg" },
-    { name: "Sisir Das", title: "Treasurer", photo: "president/card.jpeg" },
+    { name: "Sisir Das", title: "Treasurer", photo: "president/laltu.jpeg" },
     { name: "Susanto Maity", title: "Treasurer", photo: "president/susanto.jpeg" },
     { name: "Chandan Sahu", title: "Cultural SECRETARY", photo: "president/sahu.jpeg" },
     { name: "Prasanta Maity", title: "Cultural SECRETARY", photo: "president/prasanto.jpeg" },
