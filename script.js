@@ -105,15 +105,15 @@ const SITE_DATA = {
   committee: [
     { name: "Ananda Ghorai", title: "Chairman", photo: "president/anand.jpeg" },
     { name: "Amar Adak", title: "Chairman", photo: "president/amar.jpg" },
-    { name: "Biswajit Jana", title: "President", photo: "president/photo.jpg" },
+    { name: "Biswajit Ghosh", title: "President", photo: "president/ghosh.jpg" },
     { name: "Ajit Maji", title: "Vice President", photo: "president/ajit.jpeg" },
-    { name: "Mrittunjoy Jana", title: "Vice President", photo: "images/committee/mrittunjoy-jana.jpg" },
-    { name: "Haripada Samui", title: "Vice President", photo: "images/committee/haripada-samui.jpg" },
+    { name: "Mrittunjoy Jana", title: "Vice President", photo: "president/mithun.jpg" },
+    { name: "Haripada Samui", title: "Vice President", photo: "president/hari.png" },
     { name: "Pradip Jana", title: "General Secretary", photo: "president/pradip.jpeg" },
-    { name: "Ashish Das", title: "General Secretary", photo: "president/rasu.jpeg" },
-    { name: "Sahadev Maity", title: "Joint Secretary", photo: "images/committee/sahadev-maity.jpg" },
-    { name: "Anup Jana", title: "Joint Secretary", photo: "images/committee/anup-jana.jpg" },
-    { name: "Chiranjit Sana", title: "Joint Secretary", photo: "images/committee/chiranjit-sana.jpg" },
+    { name: "Ashish Das", title: "General Secretary", photo: "president/rasuu.jpeg" },
+    { name: "Sahadev Maity", title: "Joint Secretary", photo: "president/sahadev.png" },
+    { name: "Anup Jana", title: "Joint Secretary", photo: "president/anup.png" },
+    { name: "Chiranjit Sana", title: "Joint Secretary", photo: "president/chiran.jpg" },
     { name: "Biswanath Jana", title: "Cashier", photo: "president/biswanath.jpeg" },
     { name: "Laltu Pandit", title: "Cashier", photo: "president/laltu.jpeg" },
     { name: "Sisir Das", title: "Treasurer", photo: "president/card.jpeg" },
@@ -141,7 +141,7 @@ const SITE_DATA = {
      SOCIAL + CONTACT
      ----------------------------------------------------------------------- */
   social: {
-    instagramUrl: "https://www.instagram.com/swami_vivekananda_sangha?igsi=eDZrNHc1ZnVsZ3Ry",
+    instagramUrl: "https://www.instagram.com/swami.vivekananda.sangha?stkn=eDZrNHc1ZnVsZ3Ry",
     instagramHandle: "@swami_vivekananda_sangha",
   },
 
